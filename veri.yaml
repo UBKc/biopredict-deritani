@@ -1,0 +1,7 @@
+# BioPredict - DeriTani veri seti ayarlari (YOLOv5 formati)
+path: ../veri          # yolov5 klasorune gore veri klasoru
+train: images/train    # 8931 goruntu
+val: images/val        # 2218 goruntu
+
+nc: 4
+names: ["akne", "egzama", "sedef", "gul_hastaligi"]

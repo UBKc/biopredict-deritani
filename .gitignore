@@ -1,0 +1,15 @@
+# yolov5 ayrica klonlaniyor
+yolov5/
+
+# saglik verisi, paylasilmiyor
+veri/
+
+# model agirliklari ve egitim ciktilari
+*.pt
+*.onnx
+*.tflite
+runs/
+
+__pycache__/
+letterbox_ornek.jpg
+tahmin_sonuc.jpg
