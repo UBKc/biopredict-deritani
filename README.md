@@ -4,6 +4,8 @@ TEKNOFEST 2025 İnsanlık Yararına Teknoloji Yarışması, Sağlık Teknolojile
 
 Uygulama, kullanıcının çektiği cilt fotoğrafında 4 yaygın, kanser olmayan cilt hastalığını tespit edip ön değerlendirme sunuyor. Amaç teşhis koymak değil, dermatoloğa erişimi zor olan kişilerin doktora gitme kararını kolaylaştırmak.
 
+> Bu projeyi bitirme projemde sınıflandırmaya çevirip 5 model karşılaştırması, istatistiksel analiz ve semptom anketiyle geliştirdim: **[Dermatrix](https://github.com/UBKc/dermatrix)**
+
 ## Projede benim kısmım
 
 Takımda yapay zekâ modelinden ben sorumluydum: veri setini hazırlama, etiketleme, model eğitimi, doğrulama ve modeli mobile uygun hale getirme. Mobil uygulama (React Native), backend (Node.js) ve veritabanı (MongoDB) tarafını takım arkadaşlarım geliştirdi, o kodlar bu repoda yok.
